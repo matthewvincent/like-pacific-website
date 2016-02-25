@@ -1,12 +1,12 @@
 
 @font-face {
     font-family: 'MomsTypeWriter';
-    src: url('./fonts/momt___-webfont.eot');
-    src: url('./fonts/momtmomt___-webfont.eot?#iefix') format('embedded-opentype'),
-         url('./fonts/momtmomt___-webfont.woff2') format('woff2'),
-         url('./fonts/momtmomt___-webfont.woff') format('woff'),
-         url('./fonts/momtmomt___-webfont.ttf') format('truetype'),
-         url('./fonts/momtmomt___-webfont.svg#momstypewriterregular') format('svg');
+    src: url('../fonts/momt___-webfont.eot');
+    src: url('../fonts/momtmomt___-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/momtmomt___-webfont.woff2') format('woff2'),
+         url('../fonts/momtmomt___-webfont.woff') format('woff'),
+         url('../fonts/momtmomt___-webfont.ttf') format('truetype'),
+         url('../fonts/momtmomt___-webfont.svg#momstypewriterregular') format('svg');
     font-weight: normal;
     font-style: normal;
 
