@@ -1,7 +1,7 @@
 
 @font-face {
     font-family: 'MomsTypeWriter';
-    src: url('../fonts/momt___-webfont.eot');
+    src: url('../fonts/momt___-webfont.eot') format('eot');
     src: url('../fonts/momtmomt___-webfont.eot?#iefix') format('embedded-opentype'),
          url('../fonts/momtmomt___-webfont.woff2') format('woff2'),
          url('../fonts/momtmomt___-webfont.woff') format('woff'),
