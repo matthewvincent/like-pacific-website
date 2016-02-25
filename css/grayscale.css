@@ -1,3 +1,4 @@
+@import url(https://fonts.googleapis.com/css?family=Special+Elite);
 
 @font-face {
     font-family: 'MomsTypeWriter';
@@ -17,7 +18,7 @@ body {
     margin: 0px;
     padding: 0px;
     overflow-x: hidden;
-    font-family: "MomsTypeWriter";
+    font-family: 'MomsTypeWriter', 'Special Elite';
     color: #fff;
     background: rgba(46,66,81,1);
     background: -moz-linear-gradient(left, rgba(46,66,81,1) 0%, rgba(50,105,116,1) 50%, rgba(46,66,81,1) 100%);
